@@ -6,3 +6,7 @@ fn main() {
 fn no_space(x: String) -> String {
     x.split_whitespace().collect()
 }
+
+fn no_space2(s: String) -> String {
+    s.replace(" ", "")
+}
