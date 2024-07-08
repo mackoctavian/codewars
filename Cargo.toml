@@ -7,5 +7,5 @@ edition = "2021"
 
 [workspace]
 members = [ "bool_to_string", "calculate_BMI", "grade_book", "in_love", "min_max",
-    "remove_chars", "remove_spaces", "volume_cuboid",
+    "remove_chars", "remove_spaces", "reverse", "volume_cuboid",
 ]
