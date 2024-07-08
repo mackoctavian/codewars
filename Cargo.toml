@@ -7,5 +7,5 @@ edition = "2021"
 
 [workspace]
 members = [ "calculate_BMI",
-    "remove_chars", "remove_spaces",
+    "remove_chars", "remove_spaces", "volume_cuboid",
 ]
