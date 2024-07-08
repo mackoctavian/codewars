@@ -6,6 +6,6 @@ edition = "2021"
 [dependencies]
 
 [workspace]
-members = [ "calculate_BMI",
+members = [ "bool_to_string", "calculate_BMI",
     "remove_chars", "remove_spaces", "volume_cuboid",
 ]
