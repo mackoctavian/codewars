@@ -15,6 +15,14 @@ name = "codewars"
 version = "0.1.0"
 
 [[package]]
+name = "grade_book"
+version = "0.1.0"
+
+[[package]]
+name = "in_love"
+version = "0.1.0"
+
+[[package]]
 name = "min_max"
 version = "0.1.0"
 
