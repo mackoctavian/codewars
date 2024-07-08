@@ -19,6 +19,10 @@ name = "find_num"
 version = "0.1.0"
 
 [[package]]
+name = "fizzbuzz"
+version = "0.1.0"
+
+[[package]]
 name = "grade_book"
 version = "0.1.0"
 
